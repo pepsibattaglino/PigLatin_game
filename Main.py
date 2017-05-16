@@ -1,8 +1,8 @@
 """"
 ========================== PIG LATIN =============================
-Pig Latin é um jogo linguístico, em que você move a primeira letra
+Pig Latin eh um jogo linguistico, em que voce move a primeira letra
 da palavra para o final e adiciona "ay".
-Então, "Palavra" se torna "alavrapay".
+Entao, "Palavra" se torna "alavrapay".
 ==================================================================
 """
 
